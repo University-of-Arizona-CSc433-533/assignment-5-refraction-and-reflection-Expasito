@@ -33,6 +33,12 @@ A window should appear with an 'F' in the center. But due to github not allowing
 
 <br>
 <br>
+Demos/Examples:
+In the 'Demos' folder are videos and pictures of my program working.
+<br>
+
+<br>
+<br>
 Lighting effects: <br>
 As specified, I implemented diffuse lighting along with reflections. I believe it looks correct. <br>
 
