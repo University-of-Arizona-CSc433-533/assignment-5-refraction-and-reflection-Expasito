@@ -22,6 +22,7 @@ Those should not be possible<br>
 <br>
 Behaviors:<br>
 As noted in the code, I am using a skybox, but I only use the 'up' texture for all faces of the cube. It looks better to me to have the sky for all reflections because the ground surface looked weird on the water. I understand that this is not how skyboxes work exactly but it looks better this way.
+<br> Also, while adjusting the wavelength, the waves move really fast and look weird. This is due to the rate at which I can adjust the waves. So if you see that in the videos, its due to me adjusting the waves and not a bug.
 
 
 <br>
