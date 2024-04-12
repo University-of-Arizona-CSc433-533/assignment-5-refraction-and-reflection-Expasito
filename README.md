@@ -33,7 +33,7 @@ A window should appear with an 'F' in the center. But due to github not allowing
 
 <br>
 <br>
-Demos/Examples:
+Demos/Examples: <br>
 In the 'Demos' folder are videos and pictures of my program working.
 <br>
 
